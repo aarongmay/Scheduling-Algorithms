@@ -1,0 +1,28 @@
+BEGIN
+
+ID: p1
+Arrive: 0
+ExecSize: 10
+END
+
+ID: p2
+Arrive: 2
+ExecSize: 1
+END
+
+ID: p3
+Arrive: 6
+ExecSize: 2
+END
+
+ID: p4
+Arrive: 10
+ExecSize: 1
+END
+
+ID: p5
+Arrive: 14
+ExecSize: 5
+END
+
+EOF
