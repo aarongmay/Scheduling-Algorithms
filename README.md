@@ -1,4 +1,4 @@
-# schedulingAlgorithms
+# Scheduling Algorithms
 This program simulates FCFS, RR (Round Robin), SRT and FB constant scheduling algorithms. 
 
 For each algorithm the program lists the order of the jobs being processed and computes the waiting time and 
